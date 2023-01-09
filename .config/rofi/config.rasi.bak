@@ -1,0 +1,8 @@
+configuration {
+        modi: "window,run,ssh,combi,drun";
+        combi-modi: "window,drun";
+        font: "Source Code Pro 12";
+        terminal: "alacritty";
+}
+
+@theme "/usr/share/rofi/themes/Arc-Dark.rasi"
